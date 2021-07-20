@@ -20,7 +20,7 @@ Homem contra Máquina! Teste suas habilidades de Pedra, Papel e Tesoura contra o
 
 Concentre-se em uma pergunta de Sim / Não que você precisa muito da resposta e clique na Bola 8 Mágica para saber seu destino.
 
-Leia: [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Ball)
+Leia: [Magic 8-Ball](https://en.wikipedia.org/wiki/Mgit@github.com:Kenzie-Academy-Brasil-Developers/entrega-construa-um-jogo-de-azar-sprint-3-FlavioPsantos-EstudoKenzie.gitagic_8-Ball)
 **Dica:** A [sentença switch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch) pode ser muito útil aqui!
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/85/Magic_8_Ball_-_Instrument_Of_Evil%3F_%282426454804%29.jpg)Faça o push do código para o seu repositório GitHub e implemente-o GitHub pages. No Canvas, por favor, envie sua url do GitHub Pages: (ex: https://nomedeusuario.github.io/katas2) e envie o link do seu repositório nos comentários. Após ser a correção, seu projeto deverá ficar privado.
@@ -35,7 +35,15 @@ Exemplos: Veja esta [máquina caça-níquel](http://odhyan.com/slot/) em Javascr
 
 Defina um array de 20 palavras com menos de 10 letras cada. Escreva um programa que colocará 3 palavras aleatórias horizontalmente em uma matriz de 10x10 letras. Então gere letras aleatórias para camuflar as palavras. Desafie seus amigos a encontrá-las!
 
+Leia: [Word Search](https://pt.wiki# Caça-palavras
+
+Defina um array de 20 palavras com menos de 10 letras cada. Escreva um programa que colocará 3 palavras aleatórias horizontalmente em uma matriz de 10x10 letras. Então gere letras aleatórias para camuflar as palavras. Desafie seus amigos a encontrá-las!
+
 Leia: [Word Search](https://pt.wikipedia.org/wiki/Ca%C3%A7a-palavras)
+
+**Desafio:** depois de concluir a implementação básica, que tal adicionar alguns detalhes:
+
+* Posicione algumas palavras pedia.org/wiki/Ca%C3%A7a-palavras)
 
 **Desafio:** depois de concluir a implementação básica, que tal adicionar alguns detalhes:
 
